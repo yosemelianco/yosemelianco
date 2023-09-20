@@ -1,4 +1,5 @@
 ### Hi there 👋
+![istockphoto-683911900-612x612](https://github.com/yosemelianco/yosemelianco/assets/145253626/ef66386e-342e-4106-8df2-706ff3fad161)
 
 <!--
 **yosemelianco/yosemelianco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
